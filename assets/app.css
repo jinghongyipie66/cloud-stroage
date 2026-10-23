@@ -1,0 +1,35 @@
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in { animation: fadeIn 0.4s ease-out; }
+.modal-overlay { background: rgba(0, 0, 0, 0.4); backdrop-filter: blur(4px); }
+
+.dialog-theme-info { background: linear-gradient(135deg, #2563eb, #4338ca); }
+.dialog-theme-success { background: linear-gradient(135deg, #10b981, #0d9488); }
+.dialog-theme-warning { background: linear-gradient(135deg, #f59e0b, #ea580c); }
+.dialog-theme-danger { background: linear-gradient(135deg, #e11d48, #b91c1c); }
+
+.dialog-button-info { background: linear-gradient(90deg, #2563eb, #4f46e5); box-shadow: 0 10px 15px -3px rgba(191, 219, 254, 0.7); }
+.dialog-button-info:hover { background: linear-gradient(90deg, #1d4ed8, #4338ca); }
+.dialog-button-success { background: linear-gradient(90deg, #10b981, #0d9488); box-shadow: 0 10px 15px -3px rgba(167, 243, 208, 0.7); }
+.dialog-button-success:hover { background: linear-gradient(90deg, #059669, #0f766e); }
+.dialog-button-warning { background: linear-gradient(90deg, #f59e0b, #ea580c); box-shadow: 0 10px 15px -3px rgba(253, 230, 138, 0.7); }
+.dialog-button-warning:hover { background: linear-gradient(90deg, #d97706, #c2410c); }
+.dialog-button-danger { background: linear-gradient(90deg, #e11d48, #b91c1c); box-shadow: 0 10px 15px -3px rgba(254, 205, 211, 0.7); }
+.dialog-button-danger:hover { background: linear-gradient(90deg, #be123c, #991b1b); }
+
+
+html, body { max-width: 100%; overflow-x: hidden; }
+
+@media (max-width: 639px) {
+  button, a, select, input[type="file"], input[type="checkbox"] {
+    touch-action: manipulation;
+  }
+
+  input[type="text"], input[type="password"], input[type="search"], select, textarea {
+    font-size: 16px;
+  }
+}
+

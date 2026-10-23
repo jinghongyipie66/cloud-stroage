@@ -1,0 +1,392 @@
+[
+  {
+    "path": "actions/account_actions.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "f4e3f2e4a4454baa4f725732cad11e202060a73db00d3ae1ab4c50bef8efbb0c"
+  },
+  {
+    "path": "actions/file_actions.php",
+    "origin": "modular-baseline",
+    "original_sha256": "0cab5f440e072602c369a713c8ea4d112c49e2fa692eda31ab2028a5dab40320"
+  },
+  {
+    "path": "actions/share_actions.php",
+    "origin": "share-cancellation-fix",
+    "original_sha256": "23a5fa0abd53fddbf9fc699b238b23b735d7db323ca906901a2a9cc3093e4b9d"
+  },
+  {
+    "path": "actions/user_actions.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "77749dbca35e504ab3a15c092aceeb3ad7b54a989477236db93e25b28d40ed90"
+  },
+  {
+    "path": "assets/app.css",
+    "origin": "mobile-update",
+    "original_sha256": "59a841748014628892c3783bf2f71be21e8c22dbac270f486a04bb2342851d30"
+  },
+  {
+    "path": "assets/app.js",
+    "origin": "modular-baseline",
+    "original_sha256": "d7ea44492208c9d26b569e6e8ae598c1aebfdeb3680073a719d21d3b807a1c30"
+  },
+  {
+    "path": "assets/files.js",
+    "origin": "upload_sort_update_20261023",
+    "original_sha256": "d8e10197857420410b571cc3adfbff81608d5040ef2100082a798421555b7d53"
+  },
+  {
+    "path": "assets/shares.js",
+    "origin": "share-autofill-fix",
+    "original_sha256": "0dab440e76f1d34db9e217db31d7aeb302d687d4d0969be8f347b78907c159f2"
+  },
+  {
+    "path": "assets/users.js",
+    "origin": "modular-baseline",
+    "original_sha256": "cac68db98fb0a0b1e84369b23c6eac11d3b3f8eedc4ab599582345691320219b"
+  },
+  {
+    "path": "helpers/search_helpers.php",
+    "origin": "modular-baseline",
+    "original_sha256": "3455db73299f319468669347823ebfbfdc9ccf87661ea824c41f7ba25e0cc2da"
+  },
+  {
+    "path": "helpers/storage_helpers.php",
+    "origin": "modular-baseline",
+    "original_sha256": "eddcce7c367e68321aa2b0ccb3e3d706830190bec6d8e41378eb7af17c02c70a"
+  },
+  {
+    "path": "includes/bootstrap.php",
+    "origin": "modular-baseline",
+    "original_sha256": "a6fa83c5044e07d009da0783c1780d79e1c125951d63817736c4c57d0ba942d2"
+  },
+  {
+    "path": "includes/navigation_context.php",
+    "origin": "modular-baseline",
+    "original_sha256": "a0cae2970ceb959a3628fa88e3d154b9096b528f6fff3ba14be2953ea5b8e840"
+  },
+  {
+    "path": "includes/search_context.php",
+    "origin": "upload_sort_update_20261023",
+    "original_sha256": "88a08b9e59f86f11af7d6bb11a0eb42420cdc79b06597276a11e04100f6c1049"
+  },
+  {
+    "path": "includes/view_context.php",
+    "origin": "modular-baseline",
+    "original_sha256": "03ab6a84195ffe9b4db4a443dfa33c4eb47d2cae0a210de6f0b9f0eed575f04a"
+  },
+  {
+    "path": "views/content.php",
+    "origin": "modular-baseline",
+    "original_sha256": "537ceb6a322ea5cb64fbc913db89e3312b435967cb463268a510dfbb2441873a"
+  },
+  {
+    "path": "views/home.php",
+    "origin": "upload_sort_update_20261023",
+    "original_sha256": "b587c95652053abb9dc343c20fcb48c6e859fc88f1294cbad221ec1e1dc64ca7"
+  },
+  {
+    "path": "views/modals.php",
+    "origin": "modular-baseline",
+    "original_sha256": "07f777893ac98a5623d9551e694a102949a6b99a97716053fc49485018b79cb3"
+  },
+  {
+    "path": "views/shares.php",
+    "origin": "share-autofill-fix",
+    "original_sha256": "7b179fba2377316f534f1c3e87ffffcfa5568debff31d8472ccb4f6128ddcc53"
+  },
+  {
+    "path": "views/users.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "50106a995b1128a291cffd9bf416e033bfcb9e1c26389aa70523a5b252ed1643"
+  },
+  {
+    "path": "views/layout/footer.php",
+    "origin": "upload_sort_update_20261023",
+    "original_sha256": "9e0d37b66ef1884c11d46faf2d1bc71fcfc02689a2c23ddfbab5cefa382a3849"
+  },
+  {
+    "path": "views/layout/header.php",
+    "origin": "cloud_storage_ui_layout_fix_20260906",
+    "original_sha256": "285dae20af6b3b1200205952135ba8159399ae1b897b29b567e119c9838a06c3"
+  },
+  {
+    "path": "views/layout/main_end.php",
+    "origin": "modular-baseline",
+    "original_sha256": "b3244112135011184c06c1674d5b8b35afc6b3fd042f9d517f0a8a12fd92eccb"
+  },
+  {
+    "path": "index.php",
+    "origin": "modular-baseline",
+    "original_sha256": "ce37c46dd671b1aedbf707084e7be7160e0778fae2173fe3a35eacf92da37f3a"
+  },
+  {
+    "path": "download.php",
+    "origin": "security-baseline",
+    "original_sha256": "ae5e8e24e6a8719c67188b9e04ff82a271e9667d9e7def591fed48f6bb3885aa"
+  },
+  {
+    "path": "logout.php",
+    "origin": "security-baseline",
+    "original_sha256": "ff23502396a68aaf31ad52e57fc0a7869b15b6735bd59f3684c2728a8aaf4032"
+  },
+  {
+    "path": "share.php",
+    "origin": "security-baseline",
+    "original_sha256": "0c59409d7a1b46e3ff525cde5b77b9cd4bf2780df89b22e1cde10e6dc0f66b2e"
+  },
+  {
+    "path": "share_api.php",
+    "origin": "security-baseline",
+    "original_sha256": "189ecb28b2482aba00443c6787e5431f4a630e7a88b16bec7eb8fbb9cdd43e47"
+  },
+  {
+    "path": "thumbnail.php",
+    "origin": "thumbnail-cache-update",
+    "original_sha256": "e96450078d824cc6bd2e1809ed356113f3c4702b644fe4f3c8d76299cf0db939"
+  },
+  {
+    "path": "assets/account-email.css",
+    "origin": "cloud_storage_email_ui_20260902_v2",
+    "original_sha256": "586eeb73c7ff6a21b75a1e87dcf3ee1d55ebf4b15eb1d796553b36c787a58bd6"
+  },
+  {
+    "path": "assets/account-email.js",
+    "origin": "cloud_storage_email_limit_notice_20260903",
+    "original_sha256": "b053cd62727fb51a254466997c17912b7f31ef521e865c29155a96f9f4f23ede"
+  },
+  {
+    "path": "cli/email_worker.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "e8b9c20643363627afd4b507471abe83c546f5213ba111d89c78c2d144ebc303"
+  },
+  {
+    "path": "cli/generate_mail_key.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "b6b63d6f5e8beb08ef8730f3528f1e095a4341ca0ba99c51d52349a31294ff1e"
+  },
+  {
+    "path": "cli/migrate_email_recovery.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "ca7772e846e9bb3b88f0b94e334117c2f3e82e809492e96c76bd77f7b18e19ae"
+  },
+  {
+    "path": "helpers/account_identity.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "3df06d648dedc9d1f7235cc23e95e9c8e9d1945689a228c63719a987e9698b57"
+  },
+  {
+    "path": "helpers/account_session.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "f311fa2ce0f3368a727b82b820fa7503dc6a459cf1d46a9ed340fd3fcbd5f9fb"
+  },
+  {
+    "path": "helpers/email_common.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "09be7f81fb7fa7af0209007f2bd5736722c3a0955940d430ba2aeccf8308e949"
+  },
+  {
+    "path": "helpers/email_recovery.php",
+    "origin": "email-notice-update",
+    "original_sha256": "096fe6c9ab0935a2591260b7ed9dd77a86bf2852248abafe64f0fa0e2a7ff762"
+  },
+  {
+    "path": "helpers/email_schema.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "2885e31a47136463f457d3d186bf8903cfff3c7b9c605c2a0207744d8514a47c"
+  },
+  {
+    "path": "helpers/email_transport.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "2f7450efc345563e1dd2b3f3c933c05f4dc52b0d5f3f88fb397a4c341edb7d13"
+  },
+  {
+    "path": "helpers/registration_storage.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "53bfca63fd17255e010b1af22c1f17d0f2b4fbcc93bee23358d9c99368409865"
+  },
+  {
+    "path": "includes/email_page.php",
+    "origin": "email-notice-update",
+    "original_sha256": "44ac70ef567e0b960689db30aaf267128474ba05c42df9f5736fcec43dcffedc"
+  },
+  {
+    "path": "views/email_account.php",
+    "origin": "server-update",
+    "original_sha256": "2930792c728cb540fedcc9df7bf8e61e10ef4935514ee8c06e1bd15709bcb674"
+  },
+  {
+    "path": "views/email_register.php",
+    "origin": "server-update",
+    "original_sha256": "e56e822b400d782b58393cf93943a82616cf3300ec0a38557148fc1b3ec9d339"
+  },
+  {
+    "path": "account_email.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "9bdf17d46ba92975adb8e28e41ff527e9984fe698dc98bbd055229f501280941"
+  },
+  {
+    "path": "forgot_password.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "dcd73d980ce89ca4d5f19f1d592dd4561af63eb84214c85c46a9efae937da063"
+  },
+  {
+    "path": "login.php",
+    "origin": "server-update",
+    "original_sha256": "f63f5ff950490c3731d3558a5beb69f4a113bf277a076f17f676de2d2e3bcbb0"
+  },
+  {
+    "path": "register.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "a8b62e65b780d5519f1cdf4e3646932af0b7b33c06179db878e2343cd903434b"
+  },
+  {
+    "path": "security.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "f0676b3e94f06bf527ca1345ad7326e04bbdc984a1d52cda945818835cc42bfb"
+  },
+  {
+    "path": "user_helpers.php",
+    "origin": "email-registration-20260902",
+    "original_sha256": "6f2d3a4ef9904de6f8be01e7d83e98af63f8e3cf889ecbcc5dff415dddfd07f0"
+  },
+  {
+    "path": "config/mail.example.php",
+    "origin": "public-empty-example",
+    "original_sha256": "a9de974811f0e7a81589a07e07036da2cd870b8f9bc5b925663c30fd9e0c2478"
+  },
+  {
+    "path": "vendor/phpmailer/src/PHPMailer.php",
+    "origin": "bundled-phpmailer-with-license",
+    "original_sha256": "45599a196ae7944ee2dcd4f3d3da0ac4243513d346b2d77bbd15dbd0c37f7064"
+  },
+  {
+    "path": "vendor/phpmailer/src/SMTP.php",
+    "origin": "bundled-phpmailer-with-license",
+    "original_sha256": "522bcf0d07be7e7e00114711db5c9ce2b4d59ac041c5ec36eaadd979d5fa7046"
+  },
+  {
+    "path": "vendor/phpmailer/src/Exception.php",
+    "origin": "bundled-phpmailer-with-license",
+    "original_sha256": "22ab858ae438d98f58f41f38ad2191d1b0d59570aebea0463a7948cfae1021b7"
+  },
+  {
+    "path": "vendor/phpmailer/LICENSE",
+    "origin": "bundled-phpmailer-with-license",
+    "original_sha256": "a1a33180d02960ab1c5de36cf20b1a2f0fe9888d83826ad263da5db52f1b183b"
+  },
+  {
+    "path": "vendor/phpmailer/PROVENANCE.md",
+    "origin": "bundled-phpmailer-with-license",
+    "original_sha256": "aa1de9a90edc618a2516f1561aa97584484c02a2a93b30a7cc32f5d723ac6966"
+  },
+  {
+    "path": "assets/cloud-theme.css",
+    "origin": "cloud_storage_ui_layout_fix_20260906",
+    "original_sha256": "e7f436bad519f89210e047f9212a244c88ce96502ba7b45676df4e3622ef0081"
+  },
+  {
+    "path": "assets/cloud-theme.js",
+    "origin": "server-update",
+    "original_sha256": "9b7dbc1cac5df246bc38def6ebc76db87674b403a233958b04f30980daa182f8"
+  },
+  {
+    "path": "helpers/file_list_helpers.php",
+    "origin": "upload_sort_update_20261023",
+    "original_sha256": "67489149dc8d96a89219e6405ae34b31a805b12e982673422d2be5e03c4fcd40"
+  },
+  {
+    "path": "helpers/upload_helpers.php",
+    "origin": "upload_sort_update_20261023",
+    "original_sha256": "952e8cab9bad8d40430c0fddbf416aa6c4eeca5cecb1f8bf10bbd8a389ab8d44"
+  },
+  {
+    "path": "upload.php",
+    "origin": "upload_sort_update_20261023",
+    "original_sha256": "a2c1b6eec9eeb54a79eb9cb866d82d5b961d7e602e4946427abb8e00c0abcde9"
+  },
+  {
+    "path": "migrate_last_login.php",
+    "origin": "existing-last-login-migration-unchanged",
+    "original_sha256": "65a88672a6fcb059d95c50192a5359dcf0904c6c70a3185f4310e7ece0b13d46"
+  },
+  {
+    "path": "pinyin_data.php",
+    "origin": "approved-original-companion",
+    "original_sha256": "ec813e8ec856d008dc90f2529535e4fdeb48c329fb32953ba3d16f50a5f43aad"
+  },
+  {
+    "path": "favicon.ico",
+    "origin": "approved-original-companion",
+    "original_sha256": "7b78d7989ecb8915ad032e5b121f32c4eccfd2d6e428f710bf3eb0b00b92ace8"
+  },
+  {
+    "path": "header.php",
+    "origin": "approved-original-companion",
+    "original_sha256": "48882853fcd9b790676d025859f14f9cbc9de7d40266f838ae54d52c4a9febbf"
+  },
+  {
+    "path": "tests/run.php",
+    "origin": "synthetic-email-unit-tests",
+    "original_sha256": "790b501aece153ea188d0a8bc1ba7dfdb52ef80282d84ae864eb49f7827ff461"
+  },
+  {
+    "path": "tests/notices.php",
+    "origin": "synthetic-email-notice-tests",
+    "original_sha256": "94122f31d50036bdd3a728bc8d201e1fc90ffebdd345377bf167ba3db1a65be8"
+  },
+  {
+    "path": "tests/fixtures/schema.sql",
+    "origin": "synthetic-sqlite-test-schema-not-production",
+    "original_sha256": "e0bcf2d300af5e22b387e0e526ed5caea52f21577f031bd38bb7fa7fcf0db713"
+  },
+  {
+    "path": "tests/countdown.test.mjs",
+    "origin": "countdown-tests",
+    "original_sha256": "91bc49f09b9bb3c30f68559e7a5cb2079c5da89f8ba7377c43e234ff844790ba"
+  },
+  {
+    "path": "tests/upload-sort/frontend.test.mjs",
+    "origin": "upload-sort-tests-to-port",
+    "original_sha256": "f4d0a18cdcda9e4715a1c0d6b851789ca2ff872ad1fa56daaedbaf880469d6b9"
+  },
+  {
+    "path": "tests/upload-sort/integration.test.mjs",
+    "origin": "upload-sort-tests-to-port",
+    "original_sha256": "55db9ac3bf269a06155c3191c803b12c07e1a27d6fb65c4a8d5b07af1b449151"
+  },
+  {
+    "path": "tests/upload-sort/sort-fixture.php",
+    "origin": "upload-sort-tests-to-port",
+    "original_sha256": "e33d4703450d0f0eded97c3b83f3e0a6592fee17b28c0374fa83a9de03d75a86"
+  },
+  {
+    "path": "tests/upload-sort/publish-fixture.php",
+    "origin": "upload-sort-tests-to-port",
+    "original_sha256": "c920a1cf21b0539665aded11d0d2194bacff00491965a1af2bcaa3360eeaa740"
+  },
+  {
+    "path": "tests/upload-sort/fixtures/account_session.php",
+    "origin": "upload-sort-tests-to-port",
+    "original_sha256": "c52a0af73c20f219eaa8d38a9d2b65784aa2662c6bb27ab06d48e6b1eb2c2b5a"
+  },
+  {
+    "path": "tests/upload-sort/fixtures/signin.php",
+    "origin": "upload-sort-tests-to-port",
+    "original_sha256": "0375a5994d630e6271a2b6c15bc384aeffc641073bc52f30295d9d8e7b62efb7"
+  },
+  {
+    "path": "tests/upload-sort/fixtures/index.php",
+    "origin": "upload-sort-tests-to-port",
+    "original_sha256": "fa2b57c45285b8c67cd7ed5b92913252b2af3d2668ac59b4da646a248f3c3df4"
+  },
+  {
+    "path": "tests/upload-sort/baselines/assets__files.js",
+    "origin": "public-regression-baseline",
+    "original_sha256": "7a02bb3514ef39642a7ce78d0a39aec2e4d5e4c1d0ca5f895c22551971b738e9"
+  },
+  {
+    "path": "tests/upload-sort/baselines/views__layout__footer.php",
+    "origin": "public-regression-baseline",
+    "original_sha256": "22db094020c5295c1138c0c80903e18090646934c4611283f6f8b8ed904c0191"
+  }
+]
